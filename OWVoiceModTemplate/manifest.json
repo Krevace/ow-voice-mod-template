@@ -1,9 +1,0 @@
-{
-    "filename": "OWVoiceModTemplate.dll",
-    "author": "AUTHOR",
-    "name": "MOD_NAME",
-    "uniqueName": "MOD_UNIQUE_NAME",
-    "version": "1.0.0",
-    "owmlVersion": "2.8.0",
-    "dependencies": [ "Krevace.VoiceMod" ]
-}
