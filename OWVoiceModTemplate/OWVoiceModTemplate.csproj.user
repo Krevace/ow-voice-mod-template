@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\Krevace.OWVoiceModTemplate</OutputPath>
+  </PropertyGroup>
+</Project> 
